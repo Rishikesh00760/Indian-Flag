@@ -1,0 +1,17 @@
+{
+  "name": "indian-flag",
+  "version": "1.0.0",
+  "description": "Indian Flag In HTML And CSS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Indian",
+    "Flag",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Rishikesh Velmurugan",
+  "license": "ISC"
+}

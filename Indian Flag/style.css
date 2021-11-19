@@ -1,0 +1,40 @@
+body {
+  background-image: url("https://wallpaperaccess.com/full/2591579.jpg");
+  padding: 0px;
+  margin: 0px;
+}
+.saffron {
+  background-color: #ff9933;
+  width: 955px;
+  height: 150px;
+}
+.white {
+  background-color: #ffffff;
+  width: 955px;
+  height: 150px;
+}
+.dark-green {
+  background-color: darkgreen;
+  width: 955px;
+  height: 150px;
+}
+.flag {
+  display: inline-block;
+  position: absolute;
+  top: 80px;
+  left: 180px;
+  box-shadow: 0 0 30px;
+}
+.flag:hover {
+  box-shadow: 0 0 50px;
+}
+.white img{
+  width: 150px;
+  height: 150px;
+  user-drag: none;
+  -webkit-user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
